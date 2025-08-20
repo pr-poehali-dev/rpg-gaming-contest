@@ -252,9 +252,7 @@ export default function Index() {
                 <div className="absolute -inset-4 bg-neon-magenta/20 rounded-lg blur-xl animate-glow"></div>
               </div>
               
-              <h4 className="text-4xl font-readable font-bold text-white mb-4 text-shadow">
-                2x PlayStation 5
-              </h4>
+              <h4 className="text-4xl font-readable font-bold text-white mb-4 text-shadow">PlayStation 5</h4>
               
               <p className="text-xl text-gray-300 mb-8">
                 Для самых достойных воинов Sales Arena!
